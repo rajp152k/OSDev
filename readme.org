@@ -3,4 +3,6 @@
  - why not ?
 
 * Resources
+ - http://www.osdever.net/papers/
  - https://wiki.osdev.org
+ - https://wiki.osdev.org/Category:OS_theory
