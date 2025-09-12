@@ -1,3 +1,6 @@
 #+title: OS Dev
 
  - why not ?
+
+* Resources
+ - https://wiki.osdev.org
