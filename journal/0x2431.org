@@ -1,6 +1,7 @@
 #+title: OS Dev
 
  0x2431 : init & incentives
+ - https://youtu.be/WoMibNj7XYM
 
 * Why?
  - need a formidable hobby
