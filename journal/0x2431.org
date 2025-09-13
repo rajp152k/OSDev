@@ -1,0 +1,32 @@
+#+title: OS Dev
+
+ 0x2431 : init & incentives
+
+* Why?
+ - need a formidable hobby
+ - bored
+ - emptiness
+ - everything seems just too easy
+ - would rather OS Dev than get therapy
+* Proc/formats
+ - regular post-apocalyptic style updates
+ - work logs/journals
+ - charting out the landscape
+* Frequency
+ - 1+/week
+* Tooling
+ - everything under the sun ..
+   - primary drivers :
+     - emacs
+     - tmux
+     - vim
+     - GNU/Linux
+ - will accumulate a whole bunch of inventory/weaponry along the way
+ - will document their integration as separate videos in here
+* Opinions
+ - overwhelming
+ - do not know where to start
+ - feels like an open world rpg
+ - too many resources/noise : can't yet discern between what's noise and what is signal
+ - do not quite know what the end looks like
+ - sounds fun
