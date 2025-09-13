@@ -3,6 +3,6 @@
  - why not ?
 
 * Resources
- - http://www.osdever.net/papers/
+ - http://www.osdever.net/
  - https://wiki.osdev.org
- - https://wiki.osdev.org/Category:OS_theory
+ - https://pages.cs.wisc.edu/~remzi/OSTEP/
