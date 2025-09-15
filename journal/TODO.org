@@ -1,0 +1,21 @@
+#+title: Todo
+
+* documenting the boot process
+ - [ ] what does it mean to boot into something
+* how do you decide what language to use
+ - [ ] when and where does assembly come into the picture
+* what are some minimal features that your os should have
+* live breakdown of the source of an existing operating system
+ - [ ] from a user interface perspective : what are ISOs
+ - [ ] how could one actually mount an ISO and get it started
+ - [ ] writing a hypervisor : is that the next step to feeling competent
+ - [ ] different sort of OS architectures and what they do
+
+* what are some long term eternals for the project
+        - a work oriented ideation journal for tracking qualitative progress
+        - an idea connection map to maintain a context throughout the larger duration of the project
+        - being able to search quickly and ask doubts
+          - copy pasting, browser interop , llm clients
+        - ways to document todos and provide structured updates
+        - top down vs bottom up at the same time
+        - what sort of cadence do I need?
