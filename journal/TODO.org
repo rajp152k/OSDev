@@ -38,3 +38,6 @@
 * how do you handle data persistence?
 * what are the problems of existing operating systems : what do you plan on doing differently? : design goals
 * what are some current OS research efforts and why do those threads exist?
+* what about tunable kernel space programs/operating systems as a whole
+* what about having a more flexible API for operating systems : should readup on POSIX
+* what about proving the correctness and fairness of your generic orchestration algorithms : how can/does one quantify it
