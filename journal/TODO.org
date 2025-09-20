@@ -41,3 +41,8 @@
 * what about tunable kernel space programs/operating systems as a whole
 * what about having a more flexible API for operating systems : should readup on POSIX
 * what about proving the correctness and fairness of your generic orchestration algorithms : how can/does one quantify it
+* spatially aware processes : how could you augment the vocabulary?
+        - already fairly cool
+          - killing children
+          - daemons
+          - zombies
