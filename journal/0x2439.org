@@ -25,6 +25,11 @@
  - aidermacs : aid.txt
  - fabric to improve prompts
  - analysing pages with aidermacs
+** Misc stuff
+ - eshell
+ - quick man pages as buffers
+ - eww
+ - emacs is nice
 * Journals and Logs
  - questions
  - long running meditations
