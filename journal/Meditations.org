@@ -1,4 +1,4 @@
-#+title: Todo
+T+title: Meditations
 
 * documenting the boot process
  - [ ] what does it mean to boot into something
@@ -21,20 +21,13 @@
           - If I need something, I could just write whatever I need with more ease than I would be able to in vs code or any other editor
           - supporting theory with man pages and more : textbook + man pages
           - how to use the host OS to study stuff quickly
-
-
-
-
-
         - ways to document todos and provide structured updates
         - top down vs bottom up at the same time
         - what sort of cadence do I need?
-
 * enabling interface / API for the usual generic stuff : above and below the OS
  - POSIX?
  - thinking in terms of interfaces and how all the layers interact
  - getting down to the abstractions that the hardware provides and the ones that the generic software demand
-
 * how do you handle data persistence?
 * what are the problems of existing operating systems : what do you plan on doing differently? : design goals
 * what are some current OS research efforts and why do those threads exist?

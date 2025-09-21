@@ -1,0 +1,39 @@
+#+title: 0x2439
+
+0x1 Writing an Operating System
+0x2439 : study/logging strat
+
+* Managing Expectations
+ - will have to study a lot
+ - How do I study smart?
+ - how do iterations look like?
+ - foundational inventory mechanism I'll be using
+* Study Strat
+ - exploratory mindset building for systems research and stuff
+ - not skimping on the fundamentals
+ - asking a lot of questions
+ - meditating on a lot of questions
+ - regular authentic checkins with the community : keeping it real
+* Explicits
+** Foundational
+ - OSTEP
+** Exploratory
+ - org roam : outlines and connections only
+ - gptel
+ - not for nodes but for inter cluster conns
+** LLM Augmented Ponders
+ - aidermacs : aid.txt
+ - fabric to improve prompts
+ - analysing pages with aidermacs
+* Journals and Logs
+ - questions
+ - long running meditations
+ - misc work logs
+* Meta
+- work/study
+  - Maintaining a daily investment of 1hour+
+  - 5hrs + on the weekends
+- vlog
+  - one shot on a saturday/sunday, summarizing the week
+- balancing flow/deepwork
+  - music
