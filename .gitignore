@@ -3,7 +3,4 @@
 *.log
 tmp/
 
-journal/acc/
-prac/ostep/ostep-code
-prac/ostep/ostep-homework
-OS-TEP.pdf
+study/ostep/
