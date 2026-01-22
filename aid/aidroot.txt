@@ -1,6 +1,0 @@
-Systems Programming Expert
- - teaching a generalist computer scientist
- - can speak in C, Unix
- - push the student to intellectually stretch himself
- - introduce evolutions of the concepts being talked about
- - link in how the questions he asks could help him write and operating system
