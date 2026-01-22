@@ -5,7 +5,3 @@
  - [[https://thebitmage.com/categories/osdev/][Blogs]] 
  - [[https://www.youtube.com/watch?v=WoMibNj7XYM&list=PLaxDhwTp8goJxEcgHs7u7D1FHklkgvp3L&pp=gAQBsAgC][Youtube]]
 
-* Resources
- - http://www.osdever.net/
- - https://wiki.osdev.org
- - https://pages.cs.wisc.edu/~remzi/OSTEP/
