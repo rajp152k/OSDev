@@ -1,6 +1,10 @@
 #+title: OS Dev
 
- - why not ?
+* Quick Links
+ - [Journals](./journal)
+ - [Blogs](https://thebitmage.com/categories/osdev/)
+ - [Youtube](https://www.youtube.com/watch?v=WoMibNj7XYM&list=PLaxDhwTp8goJxEcgHs7u7D1FHklkgvp3L&pp=gAQBsAgC)
+   
 
 * Resources
  - http://www.osdever.net/
